@@ -1,0 +1,3 @@
+/home/arno/RTOS/build/CMakeFiles/rtos_scheduler.dir
+/home/arno/RTOS/build/CMakeFiles/edit_cache.dir
+/home/arno/RTOS/build/CMakeFiles/rebuild_cache.dir
